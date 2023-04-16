@@ -1,0 +1,14 @@
+body {
+    margin: 0;
+    font-family: sans-serif;
+}
+
+#video-player {
+    width: 100%;
+    height: 50vh;
+    background: black;
+    position: sticky;
+    top: 0;
+}
+
+
